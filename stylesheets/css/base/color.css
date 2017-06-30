@@ -1,0 +1,35 @@
+* {
+  color: #434345; }
+  * a {
+    color: #AC167A; }
+
+.dark * {
+  color: #fff; }
+.dark a {
+  color: #AC167A; }
+.dark .title {
+  color: #fff; }
+
+#header {
+  background: rgba(34, 34, 34, 0.3); }
+  #header .navbar {
+    background: rgba(34, 34, 34, 0.3); }
+  #header li a {
+    color: #fff; }
+
+.title {
+  color: #434345; }
+  .title span {
+    color: #AC167A; }
+
+.jarallax:after {
+  content: "";
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: rgba(34, 34, 34, 0.1);
+  z-index: -96; }
+
+/*# sourceMappingURL=color.css.map */

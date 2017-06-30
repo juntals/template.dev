@@ -1,0 +1,62 @@
+$navBg: rgba(34, 34, 34, 0.30);
+
+$naturalColor: rgb(67, 67, 69);
+$naturalLinkColor: #AC167A;
+
+$darkColor: #fff;
+$darkLinkColor: #AC167A;
+
+* {
+    color: $naturalColor;
+
+    a {
+        color: $naturalLinkColor;
+    }
+}
+
+.dark {
+	
+    * {
+        color: $darkColor;
+    }
+
+    a {
+        color: $darkLinkColor;
+    }
+
+    .title{
+    	color: $darkColor;
+    }
+}
+
+#header {
+    background: $navBg;
+
+    .navbar {
+        background: $navBg;
+    }
+
+    li a {
+	    color: #fff;
+	}
+}
+
+.title {
+
+	color: $naturalColor;
+
+    span {
+	    color: $naturalLinkColor;
+	}
+}
+
+.jarallax:after {
+    content: "";
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: rgba(34, 34, 34, 0.1);
+    z-index: -96;
+}

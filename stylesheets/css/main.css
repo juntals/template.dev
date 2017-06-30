@@ -1,0 +1,30 @@
+#content-body {
+  background-size: cover;
+  background-position: center;
+  padding-top: 100px; }
+
+.gradient-bg {
+  background-color: #fdfdfd;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#fdfdfd), to(#f3f3f3));
+  background-image: -webkit-linear-gradient(top, #fdfdfd, #f3f3f3);
+  background-image: -moz-linear-gradient(top, #fdfdfd, #f3f3f3);
+  background-image: -ms-linear-gradient(top, #fdfdfd, #f3f3f3);
+  background-image: -o-linear-gradient(top, #fdfdfd, #f3f3f3); }
+
+section {
+  padding: 40px 10px; }
+
+.title {
+  font-size: 31px;
+  text-align: center;
+  margin: 0;
+  margin-bottom: 30px; }
+
+#header .navbar .navbar-brand a {
+  color: #ff60ca; }
+#header .navbar.affix {
+  background: #ac167a; }
+  #header .navbar.affix .navbar-brand a {
+    color: #fff; }
+
+/*# sourceMappingURL=main.css.map */

@@ -1,0 +1,49 @@
+#content-body {
+    background-size: cover;
+    background-position: center;
+    padding-top: 100px;
+}
+
+$gradientBg: #fdfdfd;
+$gradientBgBot: #f3f3f3;
+
+.gradient-bg {
+    background-color: $gradientBg;
+    background-image: -webkit-gradient(linear, left top, left bottom, from($gradientBg), to($gradientBgBot));
+    background-image: -webkit-linear-gradient(top, $gradientBg, $gradientBgBot);
+    background-image: -moz-linear-gradient(top, $gradientBg, $gradientBgBot);
+    background-image: -ms-linear-gradient(top, $gradientBg, $gradientBgBot);
+    background-image: -o-linear-gradient(top, $gradientBg, $gradientBgBot);
+}
+
+section {
+    padding: 40px 10px;
+}
+
+.title {
+    font-size: 31px;
+    text-align: center;
+    margin: 0;
+    margin-bottom: 30px;
+}
+#header {
+	
+	.navbar{
+		.navbar-brand{
+
+			a{
+				color: rgb(255, 96, 202);
+			}
+		}
+	}
+	.navbar.affix {
+	    background: #ac167a;
+		
+		.navbar-brand{
+		    a {
+			    color: #fff;
+			}
+		}
+	}
+	
+}

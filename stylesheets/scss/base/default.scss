@@ -1,0 +1,46 @@
+$easeTime: 0.2s;
+
+* {
+    font: 0;
+}
+
+#header {
+    position: absolute;
+    height: 300px;
+    width: 100%;
+    top: 0;
+
+    .navbar {
+        margin: 0;
+        border: 0;
+        border-radius: 0;
+        width: 100%;
+        z-index: 99;
+        padding: 25px 0;
+        border: none;
+        -webkit-transition: padding $easeTime ease-in-out;
+        -moz-transition: padding $easeTime ease-in-out;
+        -ms-transition: padding $easeTime ease-in-out;
+        -o-transition: padding $easeTime ease-in-out;
+        transition: padding $easeTime ease-in-out;
+
+        .navbar-brand {
+            margin: 0;
+        }
+    }
+
+    .affix {
+        padding: 10px;
+    }
+}
+
+.vertical-center-parent {
+    position: relative;
+}
+
+.vertical-center-child {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
