@@ -4,6 +4,14 @@ $easeTime: 0.2s;
     font: 0;
 }
 
+*:hover {
+    -webkit-transition: all $easeTime ease-in-out;
+    -moz-transition: all $easeTime ease-in-out;
+    -ms-transition: all $easeTime ease-in-out;
+    -o-transition: all $easeTime ease-in-out;
+    transition: all $easeTime ease-in-out;
+}
+
 #header {
     position: absolute;
     height: 80px;
@@ -100,11 +108,8 @@ $easeTime: 0.2s;
         border: 0;
         padding: 18px 0;
         border-radius: 3px;
+        vertical-align: top;
     }
-}
-
-.no-padding{
-    padding: 0;
 }
 
 ul.category-list {

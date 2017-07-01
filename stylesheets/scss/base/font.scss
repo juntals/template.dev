@@ -11,12 +11,12 @@ body {
 }
 
 // Do not edit this is responsive font sizes
-$html-font-size-lg: 16px;
+$html-font-size-lg: 18px;
 $html-font-size-md: 15px;
 $html-font-size-sm: 14px;
 $html-font-size-xs: 13px;
 
-$paragraph-font-size-lg: 16px;
+$paragraph-font-size-lg: 18px;
 $paragraph-font-size-md: 16px;
 $paragraph-font-size-sm: 14px;
 $paragraph-font-size-xs: 12px;
@@ -40,6 +40,7 @@ html {
 
 p {
     font-size: $paragraph-font-size-lg;
+    margin-bottom: 31px;
 
     @media (max-width: 1024px) {
         font-size: $paragraph-font-size-md;

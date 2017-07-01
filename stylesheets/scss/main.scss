@@ -16,18 +16,81 @@ $gradientBgBot: #f3f3f3;
     background-image: -o-linear-gradient(top, $gradientBg, $gradientBgBot);
 }
 
+.no-padding{
+    padding: 0;
+}
+.padding-bottom-40{
+	padding-bottom:40;
+}
+.align-left{
+    text-align: left;
+}
+
+.align-center{
+    text-align: center;
+}
+.text-center{ 
+	img {
+	    display: block;
+	    margin: auto;
+	}
+}
+
 section {
-    padding: 40px 10px;
+    padding: 80px 10px;
 }
 
 
 .title {
     font-size: 31px;
-    text-align: center;
     margin: 0;
     margin-bottom: 30px;
 }
 #header {
 	
 
+}
+.our-method {
+	text-align: left;
+
+	a {
+	    width: 100%;
+	    margin: 0;
+	    padding: 10px;
+	    text-decoration: none;
+	    font-size: 18px;
+	    font-weight: 300;
+	    text-align: left;
+
+	    i {
+		    border: 1px solid #734865;
+		    padding: 10px;
+		    margin-right: 12px;
+		    border-radius: 3px;
+		    font-size: 26px;
+		    color: #734865;
+		    min-width: 55px;
+		    text-align: center;
+		}
+	}
+
+}
+
+ul.center-card-block {
+    list-style-type: none;
+    display: block;
+    text-align: center;
+    padding: 0;
+    margin: 0 auto;
+
+    li {
+        display: inline-block;
+	    vertical-align: top;
+	    width: 33%;
+	    padding: 15px 7px;
+
+	    h3 {
+		    margin: 7px 0 12px 0;
+		}
+	}
 }
