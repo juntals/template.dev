@@ -1,7 +1,7 @@
 #content-body {
     background-size: cover;
     background-position: center;
-    padding-top: 100px;
+    min-height: 90vh;
 }
 
 $gradientBg: #fdfdfd;
@@ -20,6 +20,7 @@ section {
     padding: 40px 10px;
 }
 
+
 .title {
     font-size: 31px;
     text-align: center;
@@ -28,22 +29,5 @@ section {
 }
 #header {
 	
-	.navbar{
-		.navbar-brand{
 
-			a{
-				color: rgb(255, 96, 202);
-			}
-		}
-	}
-	.navbar.affix {
-	    background: #ac167a;
-		
-		.navbar-brand{
-		    a {
-			    color: #fff;
-			}
-		}
-	}
-	
 }

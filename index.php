@@ -14,6 +14,8 @@
     <!-- Bootstrap Core CSS -->
     <link href="stylesheets/vendors/bootstrap.min.css" rel="stylesheet">
     <link href="stylesheets/vendors/hover/css/hover-min.css" rel="stylesheet">
+    <link href="stylesheets/vendors/font-awesome-4.7.0/css/font-awesome.min.css" rel="stylesheet">
+    
     
     <!-- font embed -->
     <link href="https://fonts.googleapis.com/css?family=Lato|Lora" rel="stylesheet">
@@ -49,25 +51,48 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <h1 class="navbar-brand"><a href="#">Bowral Flowers</a></h1>
+                    <a href="#" id="logo" class="navbar-brand"><img class="" src="/images/logo.png" alt=""></a></h1>
                 </div>
                 <!-- Collect the nav links, forms, and other content for toggling -->
                 <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 
+                    <ul class="nav navbar-nav pull-right quick-menu">
+                        <li>
+                            <a class="circle-social" href="#"><i class="fa fa-search" aria-hidden="true"></i></a>
+                        </li>
+                        <li>
+                            <a class="square-social" href="#"><i class="fa fa-user-plus" aria-hidden="true"></i></a>
+                        </li>
+                        <li>
+                            <a class="square-social" href="#"><i class="fa fa-user-plus" aria-hidden="true"></i></a>
+                        </li>
+                    </ul>
+    
                     <ul class="nav navbar-nav pull-right">
                         <li>
                             <a href="#">Home</a>
                         </li>
                         <li>
-                            <a href="#">About</a>
+                            <a href="#">Business</a>
                         </li>
                         <li>
-                            <a href="#">Services</a>
+                            <a href="#">Categories</a>
+                        </li>
+                        <li>
+                            <a href="#">Store Locator</a>
+                        </li>
+                        <li>
+                            <a href="#">Blog</a>
+                        </li>
+                        <li>
+                            <a href="#">About</a>
                         </li>
                         <li>
                             <a href="#">Contact</a>
                         </li>
                     </ul>
+
+                    
 
                 </div>
                 <!-- /.navbar-collapse -->
@@ -78,14 +103,39 @@
 
     <!-- Page Content -->
     
-    <section id="content-body" class="jarallax dark" style="background-image: url(http://lorempixel.com/1200/600/);" >
-        <div class="container">
+    <section id="content-body" class="jarallax dark vertical-center-parent" style="background-image: url(http://lorempixel.com/1200/600/);" >
+        
+        <div class="vertical-center-child">
 
-            <h2 class="title">Heading text <span class="font-special">Special</span></h2>
+            <div class="container">
+                <h2 class="title font-special"><span class="font-special count">552014</span> Customer Reviews for <br>businesses in Australia </h2>  
 
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe repellat, recusandae iste non rem exercitationem quos libero. Mollitia harum, minima sunt neque eveniet, perferendis vel odio eaque aperiam totam veniam ea. Eum, provident tempora doloribus ab dignissimos totam perspiciatis porro dolorum consequuntur harum reprehenderit architecto, tenetur perferendis inventore consequatur iste. Dolor, libero! Nesciunt sunt molestias quod, necessitatibus recusandae ipsam earum beatae magni officiis atque alias unde rerum eum esse harum architecto temporibus numquam aut debitis voluptates. Sapiente, expedita cumque corrupti accusamus aspernatur facilis. Voluptatum numquam possimus amet, hic nobis dignissimos eum magni repellat labore beatae at animi provident odit quidem non cum dicta ratione? Laboriosam repellendus, culpa est nemo fuga! Ratione, ex. Beatae laborum autem alias non, in repellendus quas quidem cum ea sequi voluptates, odio excepturi labore ducimus quibusdam illum, aliquam, animi quos laudantium! Quibusdam aliquid corporis error rerum eos. Doloremque aspernatur, laudantium ducimus, accusantium dolorum dolor nemo omnis itaque sapiente tenetur consequuntur non nulla, a ad velit saepe. Similique sequi, illo, ab quod mollitia sunt delectus dicta eum in molestiae velit iusto fugiat nostrum qui ratione impedit error accusamus, officia sit soluta consectetur eos, unde vel? Distinctio dolorum eaque nesciunt, voluptas mollitia doloremque sint, harum et, officiis, veritatis excepturi numquam corporis earum laudantium! Repudiandae non rem voluptatibus sed rerum maiores, autem aut fugiat hic odit quod voluptatem repellat cumque, labore ab. Ipsam eius a veniam nobis aliquam, hic beatae provident excepturi expedita laboriosam qui facere impedit reprehenderit totam odit consequuntur fuga? Ipsum, nesciunt dolorem reprehenderit officiis, magni aut enim omnis, laudantium necessitatibus optio maiores nisi sunt, ipsam dolores. Adipisci minus blanditiis, nemo accusantium, laudantium nesciunt vel quasi aperiam, saepe quod magnam accusamus nihil aut repellendus delectus earum. Ea rerum suscipit est, aliquam vero quidem quod natus quas dicta? Repellat sunt beatae quam officia aliquam laudantium numquam reprehenderit ipsa libero tempore, atque nihil, minus aut voluptas similique dolor dolorem, eveniet. Dolores fuga quaerat culpa voluptatum, similique iste, a quod, facere reprehenderit odio consequatur. Eveniet consectetur, expedita laborum tempore repellat magni. At atque deserunt quasi mollitia vero excepturi eum aut dolorem ad alias quisquam placeat, facere cupiditate voluptatum autem expedita accusantium laborum laboriosam non doloribus quas natus ut amet magnam? Veritatis optio doloremque fugiat, accusantium autem, sapiente ad, cum est, magnam placeat voluptatum officia eveniet. Similique iure inventore veniam dignissimos maxime incidunt harum suscipit, ut aliquid distinctio ad iusto obcaecati molestias ipsa numquam ea. Repellendus maiores repudiandae qui dolorum quae odit reprehenderit voluptatum ipsa facilis illo placeat odio ex autem quam impedit, fuga maxime ab, cum molestias. Possimus impedit sit mollitia doloribus? Atque mollitia tempore molestiae omnis, necessitatibus id, rem esse maxime natus soluta sed optio at non cumque dolore eius. Est itaque quod omnis voluptate provident rem sint, adipisci delectus aliquid distinctio, repudiandae, doloremque eaque tenetur saepe et autem laboriosam harum consectetur officiis consequatur ut accusantium. Ad commodi, repudiandae esse perspiciatis facilis maiores, porro nemo debitis doloribus ex totam quam iusto eveniet impedit quod at consequatur sit ipsa! Qui, natus fugiat facere. Vero quos, officia in. Assumenda quasi impedit necessitatibus omnis asperiores, quisquam sequi explicabo illo reiciendis vel nam placeat culpa sapiente, aperiam eius a dicta consequuntur odit porro consectetur architecto nihil in? Sunt voluptatum natus rem aliquam, maxime sint doloremque dolores placeat quos quam pariatur, illo incidunt laboriosam corporis dolor cupiditate neque rerum sequi eveniet! Veritatis provident reiciendis quas nihil minus vitae. Quasi, suscipit laboriosam excepturi sunt veritatis labore quisquam, deserunt rem consectetur. Dignissimos ea fugit fugiat consequatur sed molestias, maiores aspernatur harum, laudantium eaque sunt ullam, placeat. Facere, numquam. Mollitia repellendus, cum voluptatum veniam dicta saepe totam quis officiis voluptas error earum provident ipsum maiores nobis ab, dolorem id asperiores delectus reiciendis, a nostrum ullam omnis neque quidem! Eius odit molestiae reprehenderit, molestias fuga, voluptate omnis consequatur officia, ullam dolorum aspernatur! Libero exercitationem a aspernatur molestias ipsam nostrum velit optio ea laborum ipsa, quod atque neque </p>
-            <a href="">test</a> | <a href="">test</a> | <a href="">test</a> | <a href="">test</a>
-            <h1><a href="">Test</a></h1>
+                <div class="main-search">
+                    <form action="">
+                        <input type="text" placeholder="What are you looking for?">  
+                        <input type="text" placeholder="Where? (suburb, postcode, or city)">  
+                        <button class="search-submit" ><i class="fa fa-search" aria-hidden="true"></i> Find</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+        
+    </section>
+
+    <section class="no-padding gradient-bg">
+        <div class="container-fluid">
+            <ul class="category-list">
+                <li><a href="#" class="hvr-underline-from-left"><i class="fa fa-cutlery fa-2x"></i>Food</a></li>
+                <li><a href="#" class="hvr-underline-from-left"><i class="fa fa-hotel fa-2x"></i>Accommodation</a></li>
+                <li><a href="#" class="hvr-underline-from-left"><i class="fa fa-truck fa-2x"></i>Services</a></li>
+                <li><a href="#" class="hvr-underline-from-left"><i class="fa fa-tag fa-2x"></i>Retailer</a></li>
+                <li><a href="#" class="hvr-underline-from-left"><i class="fa fa-home fa-2x"></i>Real Estate</a></li>
+                <li><a href="#" class="hvr-underline-from-left"><i class="fa fa-dribbble fa-2x"></i>Sports</a></li>
+                <li><a href="#" class="hvr-underline-from-left"><i class="fa fa-bicycle fa-2x"></i>Fitness</a></li>
+                <li><a href="#" class="hvr-underline-from-left"><i class="fa fa-dollar fa-2x"></i>Financial</a></li>
+                <li><a href="#" class="hvr-underline-from-left"><i class="fa fa-calendar fa-2x"></i>Events </a></li>
+                <li><a href="#" class="hvr-underline-from-left"><i class="fa fa-medkit fa-2x"></i>Medical</a></li>
+            </ul>
         </div>
     </section>
 
@@ -99,7 +149,7 @@
         </div>
     </section>
 
-    <section  class="gradient-bg">
+    <section>
         <div class="container">
 
             <h2 class="title font-special">Heading text <span>Special</span></h2>

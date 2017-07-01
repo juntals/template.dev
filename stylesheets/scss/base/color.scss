@@ -1,12 +1,21 @@
 $navBg: rgba(34, 34, 34, 0.30);
 
-$naturalColor: rgb(67, 67, 69);
+$naturalColor: rgb(67, 67, 40);
 $naturalLinkColor: #AC167A;
 
 $darkColor: #fff;
-$darkLinkColor: #AC167A;
+$darkLinkColor: #f55ec2;
+
+$darkLinkLightColor: #77576d; 
 
 * {
+
+    :active{
+        outline-color: $naturalLinkColor;
+    }
+    :focus {
+        outline-color: $naturalLinkColor;
+    }
     color: $naturalColor;
 
     a {
@@ -26,6 +35,10 @@ $darkLinkColor: #AC167A;
 
     .title{
     	color: $darkColor;
+
+        span {
+            color: $darkLinkColor;
+        }
     }
 }
 
@@ -34,6 +47,9 @@ $darkLinkColor: #AC167A;
 
     .navbar {
         background: $navBg;
+    }
+    .navbar.affix {
+        background: $naturalLinkColor; 
     }
 
     li a {
@@ -50,6 +66,7 @@ $darkLinkColor: #AC167A;
 	}
 }
 
+
 .jarallax:after {
     content: "";
     height: 100%;
@@ -57,6 +74,18 @@ $darkLinkColor: #AC167A;
     position: absolute;
     top: 0;
     left: 0;
-    background-color: rgba(34, 34, 34, 0.1);
+    background-color: rgba(34, 34, 34, 0.6);
     z-index: -96;
 }
+
+.main-search{
+
+    input{
+        color: $darkLinkLightColor;
+    }
+
+    .search-submit {
+        background-color: $naturalLinkColor;
+    }
+}
+

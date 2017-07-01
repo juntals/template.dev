@@ -1,7 +1,7 @@
 #content-body {
   background-size: cover;
   background-position: center;
-  padding-top: 100px; }
+  min-height: 90vh; }
 
 .gradient-bg {
   background-color: #fdfdfd;
@@ -19,12 +19,5 @@ section {
   text-align: center;
   margin: 0;
   margin-bottom: 30px; }
-
-#header .navbar .navbar-brand a {
-  color: #ff60ca; }
-#header .navbar.affix {
-  background: #ac167a; }
-  #header .navbar.affix .navbar-brand a {
-    color: #fff; }
 
 /*# sourceMappingURL=main.css.map */

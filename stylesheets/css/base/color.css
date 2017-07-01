@@ -1,24 +1,32 @@
 * {
-  color: #434345; }
+  color: #434328; }
+  * :active {
+    outline-color: #AC167A; }
+  * :focus {
+    outline-color: #AC167A; }
   * a {
     color: #AC167A; }
 
 .dark * {
   color: #fff; }
 .dark a {
-  color: #AC167A; }
+  color: #f55ec2; }
 .dark .title {
   color: #fff; }
+  .dark .title span {
+    color: #f55ec2; }
 
 #header {
   background: rgba(34, 34, 34, 0.3); }
   #header .navbar {
     background: rgba(34, 34, 34, 0.3); }
+  #header .navbar.affix {
+    background: #AC167A; }
   #header li a {
     color: #fff; }
 
 .title {
-  color: #434345; }
+  color: #434328; }
   .title span {
     color: #AC167A; }
 
@@ -29,7 +37,12 @@
   position: absolute;
   top: 0;
   left: 0;
-  background-color: rgba(34, 34, 34, 0.1);
+  background-color: rgba(34, 34, 34, 0.6);
   z-index: -96; }
+
+.main-search input {
+  color: #77576d; }
+.main-search .search-submit {
+  background-color: #AC167A; }
 
 /*# sourceMappingURL=color.css.map */
