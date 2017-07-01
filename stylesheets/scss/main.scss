@@ -94,3 +94,28 @@ ul.center-card-block {
 		}
 	}
 }
+
+ul.category-block {
+    list-style-type: none;
+    text-align: left;
+    padding: 0;
+    margin: auto;
+    display: block;
+    font-size: 0;
+
+    li {
+        display: inline-block;
+	    vertical-align: top;
+	    width: 20%;
+	    a{
+	        border: 1px solid #ac167a;
+		    display: block;
+		    margin: 8px;
+		    padding: 3px;
+		    vertical-align: middle;
+		    text-align: center;
+		    border-radius: 5px;
+		    background-color: rgba(93, 40, 75, 0.12);
+	    }
+	}
+}

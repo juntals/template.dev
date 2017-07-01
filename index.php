@@ -206,27 +206,269 @@
         </div>
     </section>
 
-    <section>
+    <section class="gradient-bg">
         <div class="container">
 
             <h2 class="title">Our  <span>Network</span></h2>
+            
+            <ul class="category-block">
+                <li><a class="hvr-grow-shadow" href=""><img class="img-responsive" src="https://hair.com.au/images/dogwalkers.png" alt=""></a></li>
+                <li><a class="hvr-grow-shadow" href=""><img class="img-responsive" src="https://hair.com.au/images/dogwalkers.png" alt=""></a></li>
+                <li><a class="hvr-grow-shadow" href=""><img class="img-responsive" src="https://hair.com.au/images/dogwalkers.png" alt=""></a></li>
+                <li><a class="hvr-grow-shadow" href=""><img class="img-responsive" src="https://hair.com.au/images/dogwalkers.png" alt=""></a></li>
+                <li><a class="hvr-grow-shadow" href=""><img class="img-responsive" src="https://hair.com.au/images/dogwalkers.png" alt=""></a></li>
+                <li><a class="hvr-grow-shadow" href=""><img class="img-responsive" src="https://hair.com.au/images/dogwalkers.png" alt=""></a></li>
+                <li><a class="hvr-grow-shadow" href=""><img class="img-responsive" src="https://hair.com.au/images/dogwalkers.png" alt=""></a></li>
+                <li><a class="hvr-grow-shadow" href=""><img class="img-responsive" src="https://hair.com.au/images/dogwalkers.png" alt=""></a></li>
+                <li><a class="hvr-grow-shadow" href=""><img class="img-responsive" src="https://hair.com.au/images/dogwalkers.png" alt=""></a></li>
+                <li><a class="hvr-grow-shadow" href=""><img class="img-responsive" src="https://hair.com.au/images/dogwalkers.png" alt=""></a></li>
+                <li><a class="hvr-grow-shadow" href=""><img class="img-responsive" src="https://hair.com.au/images/dogwalkers.png" alt=""></a></li>
+                <li><a class="hvr-grow-shadow" href=""><img class="img-responsive" src="https://hair.com.au/images/dogwalkers.png" alt=""></a></li>
+            </ul>
+            
+        </div>
+    </section>
 
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nemo, expedita quis inventore soluta nisi quam, aut ducimus tempora ipsam, quisquam iste assumenda. Explicabo maxime ad ab sed. Dolore, necessitatibus hic provident iure eligendi, veritatis maxime quo omnis harum obcaecati cum porro aperiam consectetur consequuntur temporibus praesentium. Delectus veniam earum quod optio quis quae nobis libero nisi, maxime quasi magni eos eum non voluptas quam vel autem ab unde soluta quia cupiditate, at veritatis assumenda. Cum culpa voluptatibus corrupti cupiditate tenetur reprehenderit cumque, nulla nisi fuga laudantium blanditiis quae dolores, officia architecto, eaque voluptas maxime doloribus commodi in! Omnis assumenda laborum ut recusandae earum maiores eum quidem illum cupiditate voluptates, aliquid veritatis expedita, tempora unde nemo impedit voluptas id, nihil accusamus! Beatae iusto facilis sint sit quia eaque repudiandae harum! Autem quasi commodi praesentium possimus culpa necessitatibus cumque quo voluptatem deserunt consequuntur vel ullam, odio tenetur nesciunt obcaecati iusto facere sapiente animi, mollitia atque accusamus officiis! Minima nostrum officia aliquam nam nihil esse iste reprehenderit voluptate molestiae ea mollitia, labore incidunt blanditiis sunt rerum. Itaque, labore neque sit modi aut quibusdam, cumque, iusto pariatur unde aspernatur id! Dolores perspiciatis, veritatis similique asperiores amet ipsum, porro veniam voluptas ab accusantium magni laborum ipsam quos non modi, perferendis ratione, voluptate! Dolores illo sapiente accusantium placeat ut quas, ratione quos expedita voluptas impedit cum, repellendus aliquid, fugiat omnis eum sequi. Ipsam, molestias magnam! Consectetur minima deserunt consequuntur perferendis quisquam, illo minus porro maxime magnam expedita maiores tempora, rem, nihil atque veritatis nulla facere ipsa error harum voluptates ipsum doloribus numquam aperiam iste? Culpa, numquam, iusto quibusdam magnam distinctio labore error quisquam minima quam nisi ad! Magnam dolorem quasi expedita quos, impedit corrupti id, nisi consectetur rem iusto rerum ab soluta, delectus sed? Autem repellendus ducimus, corrupti, quia quisquam omnis velit qui, aut eveniet obcaecati magnam perferendis. Quibusdam asperiores sapiente impedit tempora, suscipit a animi. Itaque, labore? Totam sint, nostrum non sequi porro, repellat voluptas laboriosam harum reprehenderit laborum quisquam, fugiat magni! Placeat, quod, ex! Recusandae labore inventore quisquam quod autem odit ad iure accusantium nemo aliquid, fuga sint, architecto nam assumenda eius minus praesentium cumque. Nihil adipisci dolore sed aperiam, voluptas velit laboriosam unde. Magnam ea cupiditate harum temporibus est, ad recusandae, animi nam esse reiciendis, sint quasi praesentium et totam odio tempora quisquam quos. Dicta numquam dolore assumenda alias, odit reprehenderit sequi dolores deserunt, velit ab, nisi laudantium necessitatibus, repellendus aperiam. Tempora tempore similique mollitia facere eaque quia, quam corporis natus. Numquam distinctio ex commodi adipisci, fuga quia error veniam corrupti sequi, praesentium aliquam officia esse, eius assumenda blanditiis natus. Corporis dolore autem possimus, blanditiis quisquam distinctio consequuntur facilis consectetur eaque, unde consequatur praesentium reprehenderit aspernatur, temporibus nesciunt. Omnis maiores esse cumque, voluptates quod repellat accusantium, id aut dicta in doloribus dolorem, consequatur natus, repudiandae. Consectetur accusantium repudiandae qui velit similique soluta veritatis maiores quasi, aperiam voluptatibus quia, autem illo dolorem quod veniam dolorum aliquid iure omnis molestias facere sint! Officiis praesentium laborum, quibusdam unde alias nesciunt. Quisquam tempora aspernatur, expedita laborum repellendus?</p>
+    <section >
+        <div class="container">
+
+            <h2 class="title font-special">How it <span>Works</span></h2>
+
+            
+            <div class="row">
+                <div class="col-md-4">
+                    <h4>1. Register your Business</h4>
+                    <p>Register your business and see what your friends are recommending. Create your own business profile and establish your online presence!</p>
+                </div>
+                <div class="col-md-4">
+                    <h4>2. Promote your Business</h4>
+                    <p>Promote your business by posting promotional videos. Avail for premium to get featured monthly. Create awareness about the special deals you can offer!</p>
+                </div>
+                <div class="col-md-4">
+                    <h4>3. Get Connected and Be Ranked</h4>
+                    <p>Via FB profile you can connect with customers and let them rank your hair services.</p>
+                </div>    
+            </div>
+
         </div>
     </section>
 
     <section>
         <div class="container">
+            <h2 class="title font-special align-center">Drop us a <span>Message</span></h2>
 
-            <h2 class="title font-special">Heading text <span>Special</span></h2>
+            <div class="row row-spacer">
 
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nemo, expedita quis inventore soluta nisi quam, aut ducimus tempora ipsam, quisquam iste assumenda. Explicabo maxime ad ab sed. Dolore, necessitatibus hic provident iure eligendi, veritatis maxime quo omnis harum obcaecati cum porro aperiam consectetur consequuntur temporibus praesentium. Delectus veniam earum quod optio quis quae nobis libero nisi, maxime quasi magni eos eum non voluptas quam vel autem ab unde soluta quia cupiditate, at veritatis assumenda. Cum culpa voluptatibus corrupti cupiditate tenetur reprehenderit cumque, nulla nisi fuga laudantium blanditiis quae dolores, officia architecto, eaque voluptas maxime doloribus commodi in! Omnis assumenda laborum ut recusandae earum maiores eum quidem illum cupiditate voluptates, aliquid veritatis expedita, tempora unde nemo impedit voluptas id, nihil accusamus! Beatae iusto facilis sint sit quia eaque repudiandae harum! Autem quasi commodi praesentium possimus culpa necessitatibus cumque quo voluptatem deserunt consequuntur vel ullam, odio tenetur nesciunt obcaecati iusto facere sapiente animi, mollitia atque accusamus officiis! Minima nostrum officia aliquam nam nihil esse iste reprehenderit voluptate molestiae ea mollitia, labore incidunt blanditiis sunt rerum. Itaque, labore neque sit modi aut quibusdam, cumque, iusto pariatur unde aspernatur id! Dolores perspiciatis, veritatis similique asperiores amet ipsum, porro veniam voluptas ab accusantium magni laborum ipsam quos non modi, perferendis ratione, voluptate! Dolores illo sapiente accusantium placeat ut quas, ratione quos expedita voluptas impedit cum, repellendus aliquid, fugiat omnis eum sequi. Ipsam, molestias magnam! Consectetur minima deserunt consequuntur perferendis quisquam, illo minus porro maxime magnam expedita maiores tempora, rem, nihil atque veritatis nulla facere ipsa error harum voluptates ipsum doloribus numquam aperiam iste? Culpa, numquam, iusto quibusdam magnam distinctio labore error quisquam minima quam nisi ad! Magnam dolorem quasi expedita quos, impedit corrupti id, nisi consectetur rem iusto rerum ab soluta, delectus sed? Autem repellendus ducimus, corrupti, quia quisquam omnis velit qui, aut eveniet obcaecati magnam perferendis. Quibusdam asperiores sapiente impedit tempora, suscipit a animi. Itaque, labore? Totam sint, nostrum non sequi porro, repellat voluptas laboriosam harum reprehenderit laborum quisquam, fugiat magni! Placeat, quod, ex! Recusandae labore inventore quisquam quod autem odit ad iure accusantium nemo aliquid, fuga sint, architecto nam assumenda eius minus praesentium cumque. Nihil adipisci dolore sed aperiam, voluptas velit laboriosam unde. Magnam ea cupiditate harum temporibus est, ad recusandae, animi nam esse reiciendis, sint quasi praesentium et totam odio tempora quisquam quos. Dicta numquam dolore assumenda alias, odit reprehenderit sequi dolores deserunt, velit ab, nisi laudantium necessitatibus, repellendus aperiam. Tempora tempore similique mollitia facere eaque quia, quam corporis natus. Numquam distinctio ex commodi adipisci, fuga quia error veniam corrupti sequi, praesentium aliquam officia esse, eius assumenda blanditiis natus. Corporis dolore autem possimus, blanditiis quisquam distinctio consequuntur facilis consectetur eaque, unde consequatur praesentium reprehenderit aspernatur, temporibus nesciunt. Omnis maiores esse cumque, voluptates quod repellat accusantium, id aut dicta in doloribus dolorem, consequatur natus, repudiandae. Consectetur accusantium repudiandae qui velit similique soluta veritatis maiores quasi, aperiam voluptatibus quia, autem illo dolorem quod veniam dolorum aliquid iure omnis molestias facere sint! Officiis praesentium laborum, quibusdam unde alias nesciunt. Quisquam tempora aspernatur, expedita laborum repellendus?</p>
+                <div class="col-md-3 col-sm-6">
+                    <div class="vertical-center">
+                        <a href="#drop-us-message-section" class="circle"><i class="fa fa-map-marker" aria-hidden="true"></i></a>
+                        <h5 class="simple-title">Address</h5>
+                        <p class="text-center">PO BOX 620 Terrigal NSW 2260</p>
+                    </div>
+                </div>
+                <div class="col-md-3 col-sm-6">
+                    <div class="vertical-center">
+                        <a href="tel:(02) 8007 5521" class="circle"><i class="fa fa-phone" aria-hidden="true"></i></a>
+                        <h5 class="simple-title">Phone Number</h5>
+                        <p class="text-center"><a href="tel:(02) 8007 5521">(02) 8007 5521</a></p>
+                    </div>
+                </div>
+                <div class="col-md-3 col-sm-6">
+                    <div class="vertical-center">
+                        <a href="mailto:info@hair.com.au" class="circle"><i class="fa fa-envelope" aria-hidden="true"></i></a>
+                        <h5 class="simple-title">Email</h5>
+                        <p class="text-center"><a href="mailto:info@hair.com.au">info@hair.com.au</a></p>
+                    </div>
+                </div>
+                <div class="col-md-3 col-sm-6">
+                    <div class="vertical-center">
+                        <a href="https://www.facebook.com/haircomau/" class="circle"><i class="fa fa-connectdevelop" aria-hidden="true"></i></a>
+                        <h5 class="simple-title">Follow us</h5>
+                        <ul class="social-icons home-social-icons">
+                            <li>
+                                <a href="https://www.facebook.com/haircomau/" target="_blank">
+                                    <i class="fa fa-facebook-square" aria-hidden="true"></i>
+                                </a>
+                            </li>
+                        </ul>
+                        
+                    </div>
+                </div>
+            </div>
+
+            <div class="row">
+                    <div class="col-md-12 contact-form">
+
+                        <h5>We'd Love to Hear from You...</h5>
+                        
+
+                        
+                            
+                               
+                                     
+                                        
+                                     
+                               
+                            
+                         
+                        <form name="contact" method="post" novalidate="novalidate" action="https://hair.com.au/contact" class="ng-pristine ng-valid">
+                            
+                            <input type="hidden" name="_token" value="Fss2MHbYm6rbErEo64iwQgPIVq3GmuXugM4U0ltn" autocomplete="off">
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <div class="form-group">
+                                        <label>Name</label>
+                                        <input class="form-control nameform" placeholder="Name" name="name" type="text">
+                                        <span class="error-msg"></span>
+
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <div class="form-group">
+                                        <label>Email Address</label>
+                                        <input class="form-control" placeholder="Email" required="" name="email" type="text">
+                                        <span class="error-msg"></span>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="row">
+                                <div class="col-md-8">
+                                    <div class="form-group">
+                                        <label>Subject</label>
+                                        <input class="form-control" placeholder="Subject" required="" name="subject" type="text">
+                                        <span class="error-msg"></span>
+                                    </div>
+                                </div>
+
+                                <div class="col-md-4">
+                                    <div class="form-group">
+                                        <label>Phone</label>
+                                        <input class="form-control" placeholder="Phone" required="" name="phone" type="text">
+                                        <span class="error-msg"></span>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="row">
+                                <div class="col-md-12">
+                                    <div class="form-group">
+                                        <label>Message</label>
+                                        <textarea class="form-control" placeholder="Message" required="" name="message" cols="50" rows="10"></textarea>
+                                        <span class="error-msg"></span>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="row">
+                                <div class="col-md-12">
+                                    <button type="submit">Send Message</button>
+                                <div class="col-md-12">
+                            </div>
+                        </form>
+                    </div>
+                </div>
+
         </div>
     </section>
     <!-- /.container -->
 
-    <footer>
-        test
+    <footer class="text-center">
+        <div class="footer-upper-bar">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <ul class="footer-menu">
+                            <li><a href="https://hair.com.au/home">Home</a></li>
+                            <li><a href="https://hair.com.au/search/q">Business</a></li>
+                            <li>
+                                <a href="https://hair.com.au/categories">Categories</a>
+                            </li>
+                            <li>
+                                <a href="https://hair.com.au/store-locator">Store Locator</a>
+                            </li>
+                            <li>
+                                <a href="https://hair.com.au/blog">Blog</a>
+                            </li>
+                            <li>
+                                <a href="https://hair.com.au/about-us">About Us</a>
+                            </li>
+                            <li>
+                                <a href="https://hair.com.au/privacy">Privacy</a>
+                            </li>
+                            <li>
+                                <a href="https://hair.com.au/terms-of-service">Terms of Service</a>
+                            </li>
+                            <li>
+                                <a href="https://hair.com.au/faqs">FAQ's</a>
+                            </li>
+                            <li><a href="#feedbackModal" data-toggle="modal">Sites Feedback</a></li>
+                            
+                                
+                            
+                            <!-- Modal -->
+                            
+                        </ul>
+                    </div>
+                    
+                </div>
+            </div>
+        </div><!-- ../footer-upper-bar -->
+
+        <div class="footer-bottom-bar">
+            <div class="container">
+
+                <div class="row">
+                    <div class="col-md-4">
+                        <div class="left-image-service">
+                            <div class="img-wrapper">
+                                <a href="https://hair.com.au/home"><img src="/images/logo.png"" alt="Hair.com.au - socially rewarding"></a>
+                            </div>
+                            <div class="text-wrapper">
+                                <p>We provide a socially driven recommendation platform that provides contact information, social ranking &amp; other related information about local hair salons and hair related services in Australia.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-2">
+                        <ul>
+                            <li>PO BOX 620</li>
+                            <li>Terrigal NSW 2260</li>
+                            <li><a href="tel:(02) 8007 5521">Tel: (02) 8091 3859</a></li>
+                            <li><a href="mailto:info@hair.com.au">info@hair.com.au</a></li>
+                        </ul>
+                    </div>
+                    <div class="col-md-4 text-left">
+                        <div class="text-wrapper">
+                            <p>Sign-up for our mailing list to get latest updates and offers.</p>
+                        </div>
+                        <div class="newsletter">
+                            <form id="newsletter" name="newsletter" role="form" action="https://hair.com.au/home" method="POST" accept-charset="utf-8" class="ng-pristine ng-valid">
+                                <input type="hidden" name="_token" value="Fss2MHbYm6rbErEo64iwQgPIVq3GmuXugM4U0ltn" autocomplete="off">
+                                <label for="email">Email Address:</label>
+                                <div class="input-group">
+                                    <input id="email" type="text" class="form-control" name="email" placeholder="Your Email Address">
+                                    <span class="input-group-btn">
+                                            <button id="btn_id" class="btn btn-secondary" type="submit">Sign-up</button>
+                                        </span>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                    <div class="col-md-2">
+                     <p class="margin-top-10">Visit and Like Us:</p>
+                        <ul class="social-icons footer-social-icons">
+                            <li><a href="https://www.facebook.com/haircomau/" target="_blank">
+                                <img class="icon icons8-Facebook" src="" alt="facebook"></a></li>
+                            </ul>
+                        
+                    </div>
+                </div>
+
+                <div class="row">
+                    <p class="copyright">Copyright © 2017. All Rights Reserved | Developed by: <a href="http://rushmedia.ph/" target="_blank">RushMedia</a></p>
+                </div>
+            </div>
+        </div>
     </footer>
 
     <!-- jQuery Version 1.11.1 -->
