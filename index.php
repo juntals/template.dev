@@ -213,40 +213,47 @@
             
             <ul class="category-block">
                 <li><a class="hvr-grow-shadow" href=""><img class="img-responsive" src="https://hair.com.au/images/dogwalkers.png" alt=""></a></li>
-                <li><a class="hvr-grow-shadow" href=""><img class="img-responsive" src="https://hair.com.au/images/dogwalkers.png" alt=""></a></li>
-                <li><a class="hvr-grow-shadow" href=""><img class="img-responsive" src="https://hair.com.au/images/dogwalkers.png" alt=""></a></li>
-                <li><a class="hvr-grow-shadow" href=""><img class="img-responsive" src="https://hair.com.au/images/dogwalkers.png" alt=""></a></li>
-                <li><a class="hvr-grow-shadow" href=""><img class="img-responsive" src="https://hair.com.au/images/dogwalkers.png" alt=""></a></li>
-                <li><a class="hvr-grow-shadow" href=""><img class="img-responsive" src="https://hair.com.au/images/dogwalkers.png" alt=""></a></li>
-                <li><a class="hvr-grow-shadow" href=""><img class="img-responsive" src="https://hair.com.au/images/dogwalkers.png" alt=""></a></li>
-                <li><a class="hvr-grow-shadow" href=""><img class="img-responsive" src="https://hair.com.au/images/dogwalkers.png" alt=""></a></li>
-                <li><a class="hvr-grow-shadow" href=""><img class="img-responsive" src="https://hair.com.au/images/dogwalkers.png" alt=""></a></li>
-                <li><a class="hvr-grow-shadow" href=""><img class="img-responsive" src="https://hair.com.au/images/dogwalkers.png" alt=""></a></li>
-                <li><a class="hvr-grow-shadow" href=""><img class="img-responsive" src="https://hair.com.au/images/dogwalkers.png" alt=""></a></li>
-                <li><a class="hvr-grow-shadow" href=""><img class="img-responsive" src="https://hair.com.au/images/dogwalkers.png" alt=""></a></li>
+                <li><a class="hvr-grow-shadow" href=""><img class="img-responsive" src="https://hair.com.au/images/nuts.png" alt=""></a></li>
+                <li><a class="hvr-grow-shadow" href=""><img class="img-responsive" src="https://hair.com.au/images/weddingreceptions.png" alt=""></a></li>
+                <li><a class="hvr-grow-shadow" href=""><img class="img-responsive" src="https://hair.com.au/images/drivinginstructions.png" alt=""></a></li>
+                <li><a class="hvr-grow-shadow" href=""><img class="img-responsive" src="https://hair.com.au/images/healthclubs.png" alt=""></a></li>
+                <li><a class="hvr-grow-shadow" href=""><img class="img-responsive" src="https://hair.com.au/images/cagayandeoro.png" alt=""></a></li>
+                <li><a class="hvr-grow-shadow" href=""><img class="img-responsive" src="https://hair.com.au/images/bowral.png" alt=""></a></li>
+                <li><a class="hvr-grow-shadow" href=""><img class="img-responsive" src="https://hair.com.au/images/flowerdelivery.png" alt=""></a></li>
+                <li><a class="hvr-grow-shadow" href=""><img class="img-responsive" src="https://hair.com.au/images/mobilmechanic.png" alt=""></a></li>
+                <li><a class="hvr-grow-shadow" href=""><img class="img-responsive" src="https://hair.com.au/images/terrigal.png" alt=""></a></li>
             </ul>
             
         </div>
     </section>
 
-    <section >
+    <section id="how-it-works" >
         <div class="container">
 
-            <h2 class="title font-special">How it <span>Works</span></h2>
+            <h2 class="title font-special align-center">How it <span>Works</span></h2>
 
             
             <div class="row">
                 <div class="col-md-4">
-                    <h4>1. Register your Business</h4>
-                    <p>Register your business and see what your friends are recommending. Create your own business profile and establish your online presence!</p>
+                    <div class="step-circle">
+                        <span>1</span>
+                        <p>Register your business and see what your friends are recommending. Create your own business profile and establish your online presence!</p>
+                        <h4>Register your Business</h4>
+                    </div>
                 </div>
                 <div class="col-md-4">
-                    <h4>2. Promote your Business</h4>
-                    <p>Promote your business by posting promotional videos. Avail for premium to get featured monthly. Create awareness about the special deals you can offer!</p>
+                    <div class="step-circle">
+                        <span>2</span>
+                        <p>Promote your business by posting promotional videos. Avail for premium to get featured monthly. Create awareness about the special deals you can offer!</p>
+                        <h4>Promote your Business</h4>
+                    </div>
                 </div>
                 <div class="col-md-4">
-                    <h4>3. Get Connected and Be Ranked</h4>
-                    <p>Via FB profile you can connect with customers and let them rank your hair services.</p>
+                    <div class="step-circle">
+                        <span>3</span>
+                        <p>Via FB profile you can connect with customers and let them rank your hair services.</p>
+                        <h4>Get Connected and Be Ranked</h4>
+                    </div>
                 </div>    
             </div>
 
@@ -301,16 +308,6 @@
 
                         <h5>We'd Love to Hear from You...</h5>
                         
-
-                        
-                            
-                               
-                                     
-                                        
-                                     
-                               
-                            
-                         
                         <form name="contact" method="post" novalidate="novalidate" action="https://hair.com.au/contact" class="ng-pristine ng-valid">
                             
                             <input type="hidden" name="_token" value="Fss2MHbYm6rbErEo64iwQgPIVq3GmuXugM4U0ltn" autocomplete="off">
@@ -379,30 +376,30 @@
                 <div class="row">
                     <div class="col-md-12">
                         <ul class="footer-menu">
-                            <li><a href="https://hair.com.au/home">Home</a></li>
-                            <li><a href="https://hair.com.au/search/q">Business</a></li>
+                            <li><a class="hvr-shutter-out-vertical" href="https://hair.com.au/home">Home</a></li>
+                            <li><a class="hvr-shutter-out-vertical" href="https://hair.com.au/search/q">Business</a></li>
                             <li>
-                                <a href="https://hair.com.au/categories">Categories</a>
+                                <a class="hvr-shutter-out-vertical" href="https://hair.com.au/categories">Categories</a>
                             </li>
                             <li>
-                                <a href="https://hair.com.au/store-locator">Store Locator</a>
+                                <a class="hvr-shutter-out-vertical" href="https://hair.com.au/store-locator">Store Locator</a>
                             </li>
                             <li>
-                                <a href="https://hair.com.au/blog">Blog</a>
+                                <a class="hvr-shutter-out-vertical" href="https://hair.com.au/blog">Blog</a>
                             </li>
                             <li>
-                                <a href="https://hair.com.au/about-us">About Us</a>
+                                <a class="hvr-shutter-out-vertical" href="https://hair.com.au/about-us">About Us</a>
                             </li>
                             <li>
-                                <a href="https://hair.com.au/privacy">Privacy</a>
+                                <a class="hvr-shutter-out-vertical" href="https://hair.com.au/privacy">Privacy</a>
                             </li>
                             <li>
-                                <a href="https://hair.com.au/terms-of-service">Terms of Service</a>
+                                <a class="hvr-shutter-out-vertical" href="https://hair.com.au/terms-of-service">Terms of Service</a>
                             </li>
                             <li>
-                                <a href="https://hair.com.au/faqs">FAQ's</a>
+                                <a class="hvr-shutter-out-vertical" href="https://hair.com.au/faqs">FAQ's</a>
                             </li>
-                            <li><a href="#feedbackModal" data-toggle="modal">Sites Feedback</a></li>
+                            <li><a class="hvr-shutter-out-vertical" href="#feedbackModal" data-toggle="modal">Sites Feedback</a></li>
                             
                                 
                             
@@ -458,8 +455,10 @@
                      <p class="margin-top-10">Visit and Like Us:</p>
                         <ul class="social-icons footer-social-icons">
                             <li><a href="https://www.facebook.com/haircomau/" target="_blank">
-                                <img class="icon icons8-Facebook" src="" alt="facebook"></a></li>
-                            </ul>
+                                <i class="fa fa-facebook-square" aria-hidden="true"></i>
+                                </a>
+                            </li>
+                        </ul>
                         
                     </div>
                 </div>
