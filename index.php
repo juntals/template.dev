@@ -9,7 +9,9 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Bootstrap</title>
+    <title>Bowral</title>
+
+    <link rel="icon" href="https://www.bowral.com.au/public_html/assets/website/img/favicon/favicon.png">
 
     <!-- Bootstrap Core CSS -->
     <link href="stylesheets/vendors/bootstrap.min.css" rel="stylesheet">
@@ -103,12 +105,13 @@
 
     <!-- Page Content -->
     
-    <section id="content-body" class="jarallax dark vertical-center-parent" style="background-image: url(http://lorempixel.com/1200/600/);" >
+    <section id="content-body" class="jarallax dark vertical-center-parent" style="background-image: url(https://www.bowral.com.au/public_html/assets/website/img/header-light.jpg);" >
         
         <div class="vertical-center-child">
 
             <div class="container">
-                <h2 class="title font-special align-center"><span class="font-special count">552014</span> Customer Reviews for <br>businesses in Australia </h2>  
+                <h2 class="title font-special align-center"><span class="font-special count countTo" data-from="0" data-to="552014"
+      data-speed="1000" data-refresh-interval="50">552014</span> Customer Reviews for <br>businesses in Australia </h2>  
 
                 <div class="main-search">
                     <form action="">
@@ -159,7 +162,7 @@
                 
                 <div class="col-md-6">
                     <div class="text-center">
-                        <img class="img-responsive" src="http://lorempixel.com/700/500/" alt="">
+                        <img class="img-responsive" src="http://lorempixel.com/700/500/nature/" alt="">
                     </div>
                 </div>
             </div>
@@ -476,6 +479,7 @@
     <script src="/js/bootstrap.min.js"></script>
     <script src="/js/jarallax/jarallax.js"></script>
     <script src="/js/jarallax/jarallax-video.js"></script>
+    <script src="/js/jquery-countTo/jquery.countTo.js"></script>
 
     <script src="/js/main.js"></script>
 

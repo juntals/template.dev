@@ -4,6 +4,7 @@ $(document).ready(function(){
 	    speed: 0.2
 	});
 
+	$('.countTo').countTo();
 	
 });
 
