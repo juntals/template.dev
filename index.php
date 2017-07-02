@@ -172,32 +172,32 @@
             <h2 class="title font-special align-center">Our <span>Services</span></h2>
 
             <ul class="center-card-block">
-                <li>
+                <li class="hvr-float">
                     <img src="https://hair.com.au/images/default-images/events-home.png" alt="">
                     <h3>Events</h3>
                         Presenting you Australia’s latest hair social events, gatherings, tradeshows and stylist conventions.
                 </li>
-                <li>
+                <li  class="hvr-float">
                     <img src="https://hair.com.au/images/default-images/business-deal-home.png" alt="">
                     <h3>Deals</h3>
                         Let our user community know about special deals you have on offer!
                 </li>
-                <li>
+                <li  class="hvr-float">
                     <img src="https://hair.com.au/images/default-images/ranking-home.png" alt="">
                     <h3>Ranking </h3>
                         Using your social media connections, you can see which hair businesses are ranking well!
                 </li>
-                <li>
+                <li  class="hvr-float">
                     <img src="https://hair.com.au/images/default-images/nearby-home.png" alt="">
                     <h3>Nearby</h3>
                         When on your mobile you can quickly find the best hair services nearby!
                 </li>
-                <li>
+                <li  class="hvr-float">
                     <img src="https://hair.com.au/images/default-images/promotion-home.png" alt="">
                     <h3>Promotion</h3>
                         We provide monthly promotions for our premium listed hair businesses.
                 </li>
-                <li>
+                <li  class="hvr-float">
                     <img src="https://hair.com.au/images/default-images/engagement-home.png" alt="">
                     <h3>Connect</h3>
                         Connect with us via your FB profile to rank your favourite hair services.
@@ -235,21 +235,21 @@
             
             <div class="row">
                 <div class="col-md-4">
-                    <div class="step-circle">
+                    <div class="step-circle hvr-border-fade">
                         <span>1</span>
                         <p>Register your business and see what your friends are recommending. Create your own business profile and establish your online presence!</p>
                         <h4>Register your Business</h4>
                     </div>
                 </div>
                 <div class="col-md-4">
-                    <div class="step-circle">
+                    <div class="step-circle hvr-border-fade">
                         <span>2</span>
                         <p>Promote your business by posting promotional videos. Avail for premium to get featured monthly. Create awareness about the special deals you can offer!</p>
                         <h4>Promote your Business</h4>
                     </div>
                 </div>
                 <div class="col-md-4">
-                    <div class="step-circle">
+                    <div class="step-circle hvr-border-fade">
                         <span>3</span>
                         <p>Via FB profile you can connect with customers and let them rank your hair services.</p>
                         <h4>Get Connected and Be Ranked</h4>

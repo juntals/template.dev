@@ -63,12 +63,11 @@ section {
 	    text-align: left;
 
 	    i {
-		    border: 1px solid #734865;
+		    border: 1px solid;
 		    padding: 10px;
 		    margin-right: 12px;
 		    border-radius: 3px;
 		    font-size: 26px;
-		    color: #734865;
 		    min-width: 55px;
 		    text-align: center;
 		}
@@ -123,17 +122,13 @@ ul.category-block {
 }
 
 .step-circle {
-    background-color: #ffffff;
-    color: #fff;
     text-align: center;
     border-radius: 5px;
 
     span {
-	    color: #9138ad;
 	    font-size: 41px;
 	    font-weight: 700;
-	    border: 1px solid #ac167a;
-	    background-color: #fff;
+	    border: 1px solid;
 	    border-radius: 71px;
 	    width: 65px;
 	    height: 65px;
@@ -147,11 +142,14 @@ ul.category-block {
 	}
 
 	h4 {
-	    margin: 0;
-	    background-color: #ac167a;
-	    padding: 20px;
+	    margin-bottom: 40px;
+	    border: 1px solid;
+	    padding: 13px;
 	    font-weight: 500;
 	    text-transform: uppercase;
+	    display: inline-block;
+	    border-radius: 2px;
+	    font-size: 16px;
 	}
 }
 
@@ -214,7 +212,7 @@ footer{
 	*{
 		color:#888386;
 	}
-	a {
+	a:hover {
 	    color: #de88c1;
 	}
 }
@@ -270,4 +268,8 @@ footer{
 .left-image-service .text-wrapper {
     margin: 30px auto;
     text-align: justify;
+}
+#newsletter button {
+    background-color: #ac167a;
+    color: #fff;
 }
