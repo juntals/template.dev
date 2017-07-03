@@ -35,12 +35,9 @@ $gradientBgBot: #f3f3f3;
 	    margin: auto;
 	}
 }
-
 section {
     padding: 80px 10px;
 }
-
-
 .title {
     font-size: 31px;
     margin: 0;
@@ -273,3 +270,119 @@ footer{
     background-color: #ac167a;
     color: #fff;
 }
+
+/* common pages */
+
+header#header-2 {
+
+	.navbar {
+	    border: 0;
+	    margin: 0;
+	    border-radius: 0;
+
+	    .container {
+		    position: relative;
+
+		    .navbar-header {
+			    position: absolute;
+			    top: 0;
+			    left: 0;
+			    height: 100%;
+			    width: auto;
+			}
+		}
+	}
+
+	.navbar.affix {
+	    width: 100%;
+	    z-index: 2;
+	    background: #AC167A;
+
+	    ul.navbar-nav{
+			a {
+			    padding: 25px 10px;
+			}	
+		} 
+	}
+
+	.navbar-brand {
+
+		padding: 7px 0;
+		height: 100%;
+
+		img{
+			height: 100%;
+		}
+	}
+
+	ul.navbar-nav{
+		a {
+		    padding: 35px 10px;
+		}	
+	} 
+}
+
+#common-page{
+	section{
+		padding: 40px 0;
+	}
+	.fluid-wrapper {
+	    padding: 0;
+	    margin: 0;
+	}
+	.float-top{
+		height: 0;
+	    padding: 0;
+	    margin: 0;
+	}
+	.section-search {
+	    position: relative;
+	    top: -99px;
+	    background: rgba(95, 2, 64, 0.8);
+	    font-size: 0;
+	    min-height: 100px;
+
+	    form {
+		    font-size: 0;
+		    width: 90%;
+		    text-align: center;
+		    margin: auto;
+		    padding: 20px;
+
+		    input {
+			    font-size: 14px;
+			    padding: 18px;
+			    width: 40%;
+			    border: 0;
+			    border-radius: 0;
+			}
+
+			.search-submit {
+		        width: 20%;
+			    font-size: 14px;
+			    border: 0;
+			    padding: 18px 0;
+			    vertical-align: top;
+			    background: #ac167a;
+			    color: #fff;
+			    font-weight: 700;
+			    text-transform: uppercase;
+			    i{
+			    	color:#fff;
+			    }
+			}
+
+			input:first-child {
+			    border-right: 1px solid #ac167a;
+			}
+		}
+
+	    
+	}
+
+	.business-listing {
+	    padding: 40px 25px;
+	    border: 1px solid rgb(229, 229, 229);
+	}
+}
+

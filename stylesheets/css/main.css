@@ -204,4 +204,76 @@ footer a:hover {
   background-color: #ac167a;
   color: #fff; }
 
+/* common pages */
+header#header-2 .navbar {
+  border: 0;
+  margin: 0;
+  border-radius: 0; }
+  header#header-2 .navbar .container {
+    position: relative; }
+    header#header-2 .navbar .container .navbar-header {
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 100%;
+      width: auto; }
+header#header-2 .navbar.affix {
+  width: 100%;
+  z-index: 2;
+  background: #AC167A; }
+  header#header-2 .navbar.affix ul.navbar-nav a {
+    padding: 25px 10px; }
+header#header-2 .navbar-brand {
+  padding: 7px 0;
+  height: 100%; }
+  header#header-2 .navbar-brand img {
+    height: 100%; }
+header#header-2 ul.navbar-nav a {
+  padding: 35px 10px; }
+
+#common-page section {
+  padding: 40px 0; }
+#common-page .fluid-wrapper {
+  padding: 0;
+  margin: 0; }
+#common-page .float-top {
+  height: 0;
+  padding: 0;
+  margin: 0; }
+#common-page .section-search {
+  position: relative;
+  top: -99px;
+  background: rgba(95, 2, 64, 0.8);
+  font-size: 0;
+  min-height: 100px; }
+  #common-page .section-search form {
+    font-size: 0;
+    width: 90%;
+    text-align: center;
+    margin: auto;
+    padding: 20px; }
+    #common-page .section-search form input {
+      font-size: 14px;
+      padding: 18px;
+      width: 40%;
+      border: 0;
+      border-radius: 0; }
+    #common-page .section-search form .search-submit {
+      width: 20%;
+      font-size: 14px;
+      border: 0;
+      padding: 18px 0;
+      vertical-align: top;
+      background: #ac167a;
+      color: #fff;
+      font-weight: 700;
+      text-transform: uppercase; }
+      #common-page .section-search form .search-submit i {
+        color: #fff; }
+    #common-page .section-search form input:first-child {
+      border-right: 1px solid #ac167a; }
+#common-page .business-listing {
+  padding: 40px 25px;
+  border: 1px solid #e5e5e5; }
+
 /*# sourceMappingURL=main.css.map */
