@@ -370,7 +370,7 @@
     <script src="/js/jarallax/jarallax-video.js"></script>
     <script src="/js/jquery-countTo/jquery.countTo.js"></script>
     <script src="/js/smoothScroll/scrollSpeed.js"></script>
-    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAt9TyI6VkaXWwv_ZWN-dtWjgRKk-L8WjQ&libraries=places"></script>cd
+    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAt9TyI6VkaXWwv_ZWN-dtWjgRKk-L8WjQ&libraries=places"></script>
     <script>
         jQuery.scrollSpeed(100, 800);
     </script>
