@@ -127,25 +127,28 @@
     		<div class="row">
     			
     			<div class="col-md-9">
-    				<div class="pagination-counter">
-    					<p>Showing 1 - 5 of 591 Businesses</p>
-    				</div>
+    				
     				<div class="business-listing">
 
+                        <div class="pagination-counter">
+                            <p>Showing 1 - 5 of 591 Businesses</p>
+                        </div>
+
     					<div class="business-item">
     					
     						<div class="business-image">
-	    						<img src="http://lorempixel.com/400/300/sports/" alt="">
-	    					</div>
-
-	    					<div class="business-map">
-	    						<span>1</span>
+	    						<img class="img-responsive" src="http://lorempixel.com/400/300/sports/" alt="">
 	    					</div>
 
 	    					<div class="business-details">
+
+                                <div class="business-map">
+                                    <span>1</span>
+                                </div>
+
 	    						<h4>Skin Deep Permanent Hair Removal</h4>
-	    						<h4>hairdresser</h4>
 								<ul>
+                                    <li>hairdresser</li>
 									<li>3/230 Toorak Road West, Melbourne, South Yarra, VIC</li>
 									<li>1300 868 233</li>
 									<li>Email</li>
@@ -160,58 +163,60 @@
     					</div>
 
     					<div class="business-item">
-    					
-    						<div class="business-image">
-	    						<img src="http://lorempixel.com/400/300/sports/" alt="">
-	    					</div>
+                        
+                            <div class="business-image">
+                                <img class="img-responsive" src="http://lorempixel.com/400/300/sports/" alt="">
+                            </div>
 
-	    					<div class="business-map">
-	    						<span>1</span>
-	    					</div>
+                            <div class="business-details">
 
-	    					<div class="business-details">
-	    						<h4>Skin Deep Permanent Hair Removal</h4>
-	    						<h4>hairdresser</h4>
-								<ul>
-									<li>3/230 Toorak Road West, Melbourne, South Yarra, VIC</li>
-									<li>1300 868 233</li>
-									<li>Email</li>
-									<li>Website</li>
-								</ul>
-	    						
-	    						<div class="business-review">
-	    							star
-	    						</div>
-	    					</div>
+                                <div class="business-map">
+                                    <span>2</span>
+                                </div>
 
-    					</div>
+                                <h4>Skin Deep Permanent Hair Removal</h4>
+                                <ul>
+                                    <li>hairdresser</li>
+                                    <li>3/230 Toorak Road West, Melbourne, South Yarra, VIC</li>
+                                    <li>1300 868 233</li>
+                                    <li>Email</li>
+                                    <li>Website</li>
+                                </ul>
+                                
+                                <div class="business-review">
+                                    star
+                                </div>
+                            </div>
 
-    					<div class="business-item">
-    					
-    						<div class="business-image">
-	    						<img src="http://lorempixel.com/400/300/sports/" alt="">
-	    					</div>
+                        </div>
 
-	    					<div class="business-map">
-	    						<span>1</span>
-	    					</div>
+                        <div class="business-item">
+                        
+                            <div class="business-image">
+                                <img class="img-responsive" src="http://lorempixel.com/400/300/sports/" alt="">
+                            </div>
 
-	    					<div class="business-details">
-	    						<h4>Skin Deep Permanent Hair Removal</h4>
-	    						<h4>hairdresser</h4>
-								<ul>
-									<li>3/230 Toorak Road West, Melbourne, South Yarra, VIC</li>
-									<li>1300 868 233</li>
-									<li>Email</li>
-									<li>Website</li>
-								</ul>
-	    						
-	    						<div class="business-review">
-	    							star
-	    						</div>
-	    					</div>
+                            <div class="business-details">
 
-    					</div>
+                                <div class="business-map">
+                                    <span>3</span>
+                                </div>
+
+                                <h4>Skin Deep Permanent Hair Removal</h4>
+                                <ul>
+                                    <li>hairdresser</li>
+                                    <li>3/230 Toorak Road West, Melbourne,0 Toorak Road West, Melbourne,0 Toorak Road West, Melbourne,0 Toorak Road West, Melbourne,0 Toorak Road West, Melbourne, South Yarra, VIC</li>
+                                    <li>1300 868 233</li>
+                                    <li>Email</li>
+                                    <li>Website</li>
+                                </ul>
+                                
+                                <div class="business-review">
+                                    star
+                                </div>
+                            </div>
+
+                        </div>
 
     				</div>
 

@@ -232,6 +232,7 @@ header#header-2 ul.navbar-nav a {
   padding: 35px 10px; }
 
 #common-page section {
+  background: #fafafa;
   padding: 40px 0; }
 #common-page .fluid-wrapper {
   padding: 0;
@@ -273,7 +274,51 @@ header#header-2 ul.navbar-nav a {
     #common-page .section-search form input:first-child {
       border-right: 1px solid #ac167a; }
 #common-page .business-listing {
+  border-radius: 5px;
   padding: 40px 25px;
-  border: 1px solid #e5e5e5; }
+  border: 1px solid #e5e5e5;
+  background: #fff; }
+  #common-page .business-listing .business-item {
+    font-size: 0;
+    margin-bottom: 30px; }
+    #common-page .business-listing .business-item .business-image {
+      width: 35%;
+      display: inline-block;
+      vertical-align: top; }
+    #common-page .business-listing .business-item .business-details {
+      width: 64%;
+      display: block;
+      vertical-align: top;
+      font-size: 14px;
+      position: relative;
+      float: right;
+      border: 1px solid #e5e5e5;
+      padding: 15px 25px;
+      border-top-right-radius: 5px;
+      border-bottom-right-radius: 5px; }
+      #common-page .business-listing .business-item .business-details .business-map {
+        position: absolute;
+        top: 50%;
+        left: -5px;
+        z-index: 1;
+        margin: auto;
+        display: block;
+        transform: translate(-50%, -50%); }
+        #common-page .business-listing .business-item .business-details .business-map span {
+          font-size: 21px;
+          background: #ac167a;
+          border-radius: 50%;
+          display: inline-block;
+          vertical-align: middle;
+          text-align: center;
+          width: 50px;
+          height: 50px;
+          font-weight: 700;
+          line-height: 35px;
+          border: 6px solid #fff;
+          color: #fff; }
+      #common-page .business-listing .business-item .business-details ul {
+        padding: 0;
+        list-style-type: none; }
 
 /*# sourceMappingURL=main.css.map */

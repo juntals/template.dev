@@ -324,6 +324,7 @@ header#header-2 {
 
 #common-page{
 	section{
+		background: #fafafa;
 		padding: 40px 0;
 	}
 	.fluid-wrapper {
@@ -381,8 +382,65 @@ header#header-2 {
 	}
 
 	.business-listing {
+		border-radius: 5px;
 	    padding: 40px 25px;
 	    border: 1px solid rgb(229, 229, 229);
+	    background: #fff;
+
+
+	    .business-item {
+		    font-size: 0;
+    		margin-bottom: 30px;
+
+		    .business-image {
+			    width: 35%;
+			    display: inline-block;
+			    vertical-align: top;
+			}
+
+			.business-details {
+		        width: 64%;
+			    display: block;
+			    vertical-align: top;
+			    font-size: 14px;
+			    position: relative;
+			    float: right;
+			    border: 1px solid #e5e5e5;
+			    padding: 15px 25px;
+			    border-top-right-radius: 5px;
+			    border-bottom-right-radius: 5px;
+
+				.business-map {
+				    position: absolute;
+				    top: 50%;
+				    left: -5px;
+				    z-index: 1;
+				    margin: auto;
+				    display: block;
+				    transform: translate(-50%, -50%);
+
+					span {
+					    font-size: 21px;
+					    background: #ac167a;
+					    border-radius: 50%;
+					    display: inline-block;
+					    vertical-align: middle;
+					    text-align: center;
+					    width: 50px;
+					    height: 50px;
+					    font-weight: 700;
+					    line-height: 35px;
+					    border: 6px solid #fff;
+					    color: #fff;
+					}
+				}
+
+				ul {
+				    padding: 0;
+				    list-style-type: none;
+				}
+			}
+		}
 	}
 }
 
