@@ -149,9 +149,9 @@
 								<ul>
                                     <li>hairdresser</li>
 									<li>3/230 Toorak Road West, Melbourne, South Yarra, VIC</li>
-									<li>1300 868 233</li>
-									<li>Email</li>
-									<li>Website</li>
+									<li class="phone">1300 868 233</li>
+									<li class="email">Email</li>
+									<li class="website">Website</li>
 								</ul>
 	    						
 	    						<div class="business-review">
@@ -173,18 +173,18 @@
                                     <span>2</span>
                                 </div>
 
-                                <h4>Skin Deep Permanent Hair Removal</h4>
+                                <h4>Helen’s Hair Concepts</h4>
 
                                 <ul>
                                     <li>hairdresser</li>
-                                    <li>3/230 Toorak Road West, Melbourne, South Yarra, VIC</li>
-                                    <li>1300 868 233</li>
-                                    <li>Email</li>
-                                    <li>Website</li>
+                                    <li> Arncliffe, NSW 2205</li>
+                                    <li class="phone">(02) 9567 1012</li>
+                                    <li class="email">Email</li>
+                                    <li class="website">Website</li>
                                 </ul>
                                 
                                 <div class="business-review">
-                                    <div class="rateit bigstars" data-rateit-mode="font" data-rateit-value="2" data-rateit-max="5"></div>
+                                    <div class="rateit bigstars" data-rateit-mode="font" data-rateit-value="4" data-rateit-max="5"></div>
                                 </div>
                             </div>
 
@@ -202,18 +202,18 @@
                                     <span>3</span>
                                 </div>
 
-                                <h4>Skin Deep Permanent Hair Removal</h4>
+                                <h4>SKidz Kutz WA</h4>
                                 
                                 <ul>
                                     <li>hairdresser</li>
-                                    <li>3/230 Toorak Road West, Melbourne,0 Toorak Road West, Melbourne,0 Toorak Road West, Melbourne,0 Toorak Road West, Melbourne,0 Toorak Road West, Melbourne, South Yarra, VIC</li>
-                                    <li>1300 868 233</li>
-                                    <li>Email</li>
-                                    <li>Website</li>
+                                    <li>3/230 Toorak Road West, Melbourne,0 Toorak Road West, Melbourne, Hillarys, WA 6025</li>
+                                    <li class="phone">1300 868 233</li>
+                                    <li class="email"Email</li>
+                                    <li class="website">Website</li>
                                 </ul>
                                 
                                 <div class="business-review">
-                                    <div class="rateit bigstars" data-rateit-mode="font" data-rateit-value="2" data-rateit-max="5"></div>
+                                    <div class="rateit bigstars" data-rateit-mode="font" data-rateit-value="1" data-rateit-max="5"></div>
                                 </div>
                             </div>
 
@@ -376,7 +376,7 @@
     <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAt9TyI6VkaXWwv_ZWN-dtWjgRKk-L8WjQ&libraries=places"></script>
 
     <script>
-        jQuery.scrollSpeed(100, 800);
+        jQuery.scrollSpeed(70, 800);
     </script>
     <script>
 

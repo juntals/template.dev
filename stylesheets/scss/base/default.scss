@@ -158,5 +158,28 @@ ul.category-list {
         font-size: 14px;
         line-height: 120%;
         text-align: left;
+        margin: 10px 0;
     }
+}
+
+.pagination>li>a:focus, .pagination>li>a:hover, .pagination>li>span:focus, .pagination>li>span:hover {
+    color: #fff;
+    background-color: #ac167a;
+    border-color: #ac167a;
+}
+
+.pagination>li>a, .pagination>li>span {
+    color: #560e3e;
+}
+
+.pagination>.active>a, .pagination>.active>a:focus, .pagination>.active>a:hover, .pagination>.active>span, .pagination>.active>span:focus, .pagination>.active>span:hover {
+    background-color: #ac167a;
+    border-color: #ac167a;
+}
+
+.rateit.rateit-font .rateit-reset span {
+    height: calc(60% - 0.045em);
+}
+.rateit .rateit-selected {
+    color: #e2d036;
 }

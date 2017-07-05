@@ -482,7 +482,7 @@
     <script src="/js/jquery-countTo/jquery.countTo.js"></script>
     <script src="/js/smoothScroll/scrollSpeed.js"></script>
     <script>
-        jQuery.scrollSpeed(100, 800);
+        jQuery.scrollSpeed(70, 800);
     </script>
 
     <script src="/js/main.js"></script>
