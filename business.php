@@ -17,9 +17,8 @@
     <link href="stylesheets/vendors/bootstrap.min.css" rel="stylesheet">
     <link href="stylesheets/vendors/hover/css/hover-min.css" rel="stylesheet">
     <link href="stylesheets/vendors/font-awesome-4.7.0/css/font-awesome.min.css" rel="stylesheet">
+    <link href="/js/rateit.js/scripts/rateit.css" rel="stylesheet">
     
-    
-    <!-- font embed -->
     <link href="https://fonts.googleapis.com/css?family=Lato:300,300i,400,400i,700,700i,900,900i|Lora:400,400i,700,700i" rel="stylesheet">
     
     <!-- default theme -->
@@ -156,7 +155,7 @@
 								</ul>
 	    						
 	    						<div class="business-review">
-	    							star
+	    							<div class="rateit bigstars" data-rateit-mode="font" data-rateit-value="2" data-rateit-max="5"></div>
 	    						</div>
 	    					</div>
 
@@ -175,6 +174,7 @@
                                 </div>
 
                                 <h4>Skin Deep Permanent Hair Removal</h4>
+
                                 <ul>
                                     <li>hairdresser</li>
                                     <li>3/230 Toorak Road West, Melbourne, South Yarra, VIC</li>
@@ -184,7 +184,7 @@
                                 </ul>
                                 
                                 <div class="business-review">
-                                    star
+                                    <div class="rateit bigstars" data-rateit-mode="font" data-rateit-value="2" data-rateit-max="5"></div>
                                 </div>
                             </div>
 
@@ -203,6 +203,7 @@
                                 </div>
 
                                 <h4>Skin Deep Permanent Hair Removal</h4>
+                                
                                 <ul>
                                     <li>hairdresser</li>
                                     <li>3/230 Toorak Road West, Melbourne,0 Toorak Road West, Melbourne,0 Toorak Road West, Melbourne,0 Toorak Road West, Melbourne,0 Toorak Road West, Melbourne, South Yarra, VIC</li>
@@ -212,7 +213,7 @@
                                 </ul>
                                 
                                 <div class="business-review">
-                                    star
+                                    <div class="rateit bigstars" data-rateit-mode="font" data-rateit-value="2" data-rateit-max="5"></div>
                                 </div>
                             </div>
 
@@ -243,13 +244,13 @@
     			</div>
 
     			<div class="col-md-3">
-    				<div class="upcoming-events">
+    				<div class="sidebar upcoming-events">
     					<div class="event-date">
     						<span>9</span>
     						<span>March</span>
     					</div>
     					<div class="event-image">
-    						<img src="http://lorempixel.com/300/200/sports/" alt="">
+    						<img class="img-responsive" src="http://lorempixel.com/300/200/sports/" alt="">
     					</div>
     					<div class="event-details">
     						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est expedita error eaque laudantium, culpa laboriosam iusto nisi quia aperiam. Necessitatibus autem amet perferendis optio at!</p>
@@ -370,7 +371,10 @@
     <script src="/js/jarallax/jarallax-video.js"></script>
     <script src="/js/jquery-countTo/jquery.countTo.js"></script>
     <script src="/js/smoothScroll/scrollSpeed.js"></script>
+    <script src="/js/rateit.js/scripts/jquery.rateit.min.js"></script>
+
     <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAt9TyI6VkaXWwv_ZWN-dtWjgRKk-L8WjQ&libraries=places"></script>
+
     <script>
         jQuery.scrollSpeed(100, 800);
     </script>

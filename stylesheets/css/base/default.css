@@ -99,4 +99,14 @@ ul.category-list {
       background: rgba(172, 22, 122, 0.8);
       border-bottom: 3px solid #ac167a; }
 
+.sidebar {
+  background-color: #fff;
+  border-radius: 5px;
+  padding: 10px 15px;
+  border: 1px solid #e5e5e5; }
+  .sidebar p {
+    font-size: 14px;
+    line-height: 120%;
+    text-align: left; }
+
 /*# sourceMappingURL=default.css.map */

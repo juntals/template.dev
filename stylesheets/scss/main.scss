@@ -382,11 +382,10 @@ header#header-2 {
 	}
 
 	.business-listing {
-		border-radius: 5px;
-	    padding: 40px 25px;
-	    border: 1px solid rgb(229, 229, 229);
+	    border-radius: 5px;
+	    padding: 20px 25px 40px 25px;
+	    border: 1px solid #e5e5e5;
 	    background: #fff;
-
 
 	    .business-item {
 		    font-size: 0;
@@ -396,10 +395,11 @@ header#header-2 {
 			    width: 35%;
 			    display: inline-block;
 			    vertical-align: top;
+			    min-height: 209px;
 			}
 
 			.business-details {
-		        width: 64%;
+	            width: 64%;
 			    display: block;
 			    vertical-align: top;
 			    font-size: 14px;
@@ -409,6 +409,20 @@ header#header-2 {
 			    padding: 15px 25px;
 			    border-top-right-radius: 5px;
 			    border-bottom-right-radius: 5px;
+			    min-height: 209px;
+				
+				.business-details h4 {
+				    width: 75%;
+				    display: inline-block;
+				}
+
+				ul {
+				    padding: 0;
+				    list-style-type: none;
+				    width: 75%;
+				    margin: 0;
+				    display: inline-block;
+				}
 
 				.business-map {
 				    position: absolute;
@@ -435,9 +449,20 @@ header#header-2 {
 					}
 				}
 
-				ul {
-				    padding: 0;
-				    list-style-type: none;
+				.business-review {
+				    float: right;
+				    width: 25%;
+				    display: table;
+				    height: 70px;
+				    vertical-align: middle;
+				    border-left: 2px solid #ac167a;
+				    padding-left: 10px;
+
+				    .rateit {
+				    	font-size: 18px;
+					    display: table-cell;
+					    vertical-align: middle;
+					}
 				}
 			}
 		}
